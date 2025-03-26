@@ -43,4 +43,16 @@ Feel free to reach out or connect:
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda"/>
   <br/>
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib"/>
-  <img src="https://img.shields.io/badge/NumPy-%
+  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramCharan2405&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ramCharan2405&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramCharan2405&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"/>
+</div>
